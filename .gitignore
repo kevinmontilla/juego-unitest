@@ -1,0 +1,37 @@
+# GameMaker Studio 2 cache and build files
+*.yyz
+*.yyp~
+*.tmp
+*.log
+*.suo
+*.user
+*.cache
+*.prefs
+*.dll
+*.exe
+
+# Project backup files
+*.zip
+*.7z
+
+# Build directories
+Build/
+output/
+*.yyz
+
+# Local data
+.yyp.statistics
+*.local
+*.autosave
+*.backup
+
+# IDE folders
+.idea/
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# OS junk
+.DS_Store

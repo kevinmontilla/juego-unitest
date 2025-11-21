@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"MovimientoPersonaje",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MovimientoPersonaje",
+  "parent":{
+    "name":"Personaje",
+    "path":"folders/Scripts/Personaje.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ControlesJugador",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ControlesJugador",
+  "parent":{
+    "name":"Jugador",
+    "path":"folders/Scripts/Jugador.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

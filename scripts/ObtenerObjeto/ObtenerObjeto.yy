@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ObtenerObjeto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ObtenerObjeto",
+  "parent":{
+    "name":"Jugador",
+    "path":"folders/Scripts/Jugador.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

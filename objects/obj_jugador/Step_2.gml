@@ -1,0 +1,2 @@
+/// @description 
+sprite_index = asset_get_index("spr" + action + face)
