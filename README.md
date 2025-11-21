@@ -4,6 +4,8 @@ Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta
 
 > **Tema:** Controlas a un estudiante en una aventura por el campus universitario. Es un proyecto de desarrollo de juegos con un componente de diseño de niveles basado en la realidad.
 
+<img src="screenshots/animacionAlberto.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlberto2.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlbertoEspaldas.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionManuel.gif" alt="Gameplay Principal" width="150"/>
+
 ## Características del Juego
 
 * **Mecánica de Colección:** Recolecta todos los objetos clave distribuidos en el mapa.
@@ -11,6 +13,8 @@ Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta
 * **Gráficos 2D:** Utiliza sprites y animaciones simples para una experiencia de juego clásica, todo creado desde 0.
 * **Audio:** Implementación de sonidos y música para ambientación (carpeta `sounds`).
 * **Humor interno:** Chistes y referencias a situaciones experimentadas en la universidad.
+
+<img src="screenshots/1.png" alt="Gameplay Principal" width="320"/><img src="screenshots/22.png" alt="Gameplay Principal" width="300"/>
 
 ## Controles del juego:
 
@@ -68,6 +72,8 @@ Abrir en GameMaker:
 Necesitas tener instalado GameMaker Studio 2 (o similar).
 
 Abre el archivo UNITEST.yyp para cargar el proyecto completo en el IDE y hacer modificaciones.
+
+<img src="screenshots/Video Project.gif" alt="Gameplay Principal" width="600"/>
 
 ## Estado del Proyecto
 Tipo: Videojuego 2D.
