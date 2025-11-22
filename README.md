@@ -41,6 +41,7 @@ juego-unitest/
 ├── objects/         # Scripts y lógicas de los personajes y coleccionables
 ├── options/         # Configuraciones de compilación
 ├── rooms/           # Archivos de los niveles del juego
+├── screenshots/     # Capturas de pantalla para la documentación (README)
 ├── scripts/         # Funciones de GameMaker Language (GML)
 ├── sounds/          # Música y efectos de sonido
 ├── sprites/         # Gráficos y animaciones de personajes y objetos
